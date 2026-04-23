@@ -60,4 +60,9 @@ return;
      previous->next = nodeBaru;
     }
 
+    bool listEmpty()
+    {
+        return (START == NULL);
+    }
+
     
