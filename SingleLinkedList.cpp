@@ -188,4 +188,7 @@ int main()
                 cout << "\nPilihan salah!\n";
         }
 
-    
+    } while (ch != '5');
+
+    return 0;
+}
